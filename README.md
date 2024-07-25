@@ -1,6 +1,6 @@
 # UNISA2023-24.Mobile_Robots
 
-The primary objective of this project is to design and develop an advanced software system that enables the **Turtlebot4** to autonomously navigate within a predefined environment at the *DIEM* (Department of Industrial Engineering and Management). The project focuses on leveraging a priori knowledge of the environment's map, known as `@DIEM map` to facilitate the Turtlebot4's movement from any given starting position, ensuring it can discover and follow a path during navigation by interpreting commands provided through QR codes. 
+The primary objective of this project is to design and develop an advanced software system that enables the **Turtlebot4** to autonomously navigate within a predefined environment at the *DIEM* (Department of Information Engineering, Electrical Engineering and Applied Mathematics). The project focuses on leveraging a priori knowledge of the environment's map, known as `@DIEM map` to facilitate the Turtlebot4's movement from any given starting position, ensuring it can discover and follow a path during navigation by interpreting commands provided through QR codes. 
 
 ![waypoints](https://github.com/user-attachments/assets/41d49bb8-b0f3-4a09-969a-b6ff68fcee9d)
 
