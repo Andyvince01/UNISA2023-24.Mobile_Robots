@@ -1,0 +1,19 @@
+[0.000000] (-) TimerEvent: {}
+[0.000080] (diem_gazebo) JobQueued: {'identifier': 'diem_gazebo', 'dependencies': OrderedDict()}
+[0.000098] (nav_pkg) JobQueued: {'identifier': 'nav_pkg', 'dependencies': OrderedDict()}
+[0.000108] (qr_scanner) JobQueued: {'identifier': 'qr_scanner', 'dependencies': OrderedDict()}
+[0.000117] (talker_example) JobQueued: {'identifier': 'talker_example', 'dependencies': OrderedDict()}
+[0.000125] (diem_gazebo) JobStarted: {'identifier': 'diem_gazebo'}
+[0.003703] (nav_pkg) JobStarted: {'identifier': 'nav_pkg'}
+[0.005880] (qr_scanner) JobStarted: {'identifier': 'qr_scanner'}
+[0.008113] (talker_example) JobStarted: {'identifier': 'talker_example'}
+[0.099438] (-) TimerEvent: {}
+[0.199750] (-) TimerEvent: {}
+[0.300042] (-) TimerEvent: {}
+[0.391558] (qr_scanner) StderrLine: {'line': b'Traceback (most recent call last):\n  File "/usr/lib/python3/dist-packages/colcon_core/executor/__init__.py", line 91, in __call__\n    rc = await self.task(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_core/task/__init__.py", line 93, in __call__\n    return await task_method(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_ros/task/ament_python/build.py", line 87, in build\n    create_file(\n  File "/usr/lib/python3/dist-packages/colcon_core/task/__init__.py", line 274, in create_file\n    with open(dst, \'w\') as h:\nFileNotFoundError: [Errno 2] No such file or directory: \'/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/share/ament_index/resource_index/packages/qr_scanner\'\n'}
+[0.391792] (qr_scanner) JobEnded: {'identifier': 'qr_scanner', 'rc': 1}
+[0.391990] (diem_gazebo) JobEnded: {'identifier': 'diem_gazebo', 'rc': 'SIGINT'}
+[0.392094] (nav_pkg) JobEnded: {'identifier': 'nav_pkg', 'rc': 'SIGINT'}
+[0.392176] (talker_example) JobEnded: {'identifier': 'talker_example', 'rc': 'SIGINT'}
+[0.400130] (-) TimerEvent: {}
+[0.401865] (-) EventReactorShutdown: {}

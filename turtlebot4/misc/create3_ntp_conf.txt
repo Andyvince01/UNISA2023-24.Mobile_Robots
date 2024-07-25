@@ -1,0 +1,8 @@
+# iRobot servers
+#server 0.irobot.pool.ntp.org iburst
+#server 1.irobot.pool.ntp.org iburst
+#server 2.irobot.pool.ntp.org iburst
+#server 3.irobot.pool.ntp.org iburst
+# SBC servers
+server 192.168.186.1 iburst
+server 192.168.186.3 iburst burst prefer minpoll 3 maxpoll 4

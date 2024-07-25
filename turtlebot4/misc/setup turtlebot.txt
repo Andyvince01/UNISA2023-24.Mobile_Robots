@@ -1,0 +1,38 @@
+connetti alla wifi creata
+
+connetti a http://IP:8080
+aggiorna il firmware
+
+settare il server ntp:
+server 192.168.186.3 iburst
+
+
+connettere via ssh
+
+set della wifi come client: SAVE, esci, apply
+
+
+connettere alla rete turtlebot4
+connettere via ssh 
+set ROS
+discovery server: true
+esci
+apply
+
+
+aggiornare l'orario
+sudo date -s "$(wget -qSO- --max-redirect=0 google.com 2>&1 | grep Date: | cut -d' ' -f5-8)Z"
+
+#Crontab
+@reboot /home/ubuntu/start_ntp.bash
+
+sudo apt update
+sudo apt install -y ntp ntpdate ntpstat net-tools
+
+sudo nano /etc/ntp.conf
+commentare i pool
+aggiunere 
+pool ntp.unisa.it iburst minpoll 3 maxpoll 3
+pool ntp.ubuntu.com iburst
+
+riavviare tutto da display

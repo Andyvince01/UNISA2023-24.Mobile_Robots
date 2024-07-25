@@ -1,0 +1,35 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating ../../build/qr_scanner/qr_commander.egg-info
+writing ../../build/qr_scanner/qr_commander.egg-info/PKG-INFO
+writing dependency_links to ../../build/qr_scanner/qr_commander.egg-info/dependency_links.txt
+writing entry points to ../../build/qr_scanner/qr_commander.egg-info/entry_points.txt
+writing requirements to ../../build/qr_scanner/qr_commander.egg-info/requires.txt
+writing top-level names to ../../build/qr_scanner/qr_commander.egg-info/top_level.txt
+writing manifest file '../../build/qr_scanner/qr_commander.egg-info/SOURCES.txt'
+reading manifest file '../../build/qr_scanner/qr_commander.egg-info/SOURCES.txt'
+writing manifest file '../../build/qr_scanner/qr_commander.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+copying qr_scanner/camera.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+copying qr_scanner/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+copying qr_scanner/qr_reader.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+copying qr_scanner/qr_input.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+running install
+running install_lib
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/camera.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/qr_reader.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/qr_input.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/camera.py to camera.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/qr_reader.py to qr_reader.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/qr_input.py to qr_input.cpython-310.pyc
+running install_data
+error: can't copy 'resource/qr_commander': doesn't exist or not a regular file

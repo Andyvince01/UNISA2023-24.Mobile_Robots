@@ -1,0 +1,20 @@
+[0.571s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build --no-deps symlink_data
+[0.708s] running develop
+[0.708s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.708s]   warnings.warn(
+[0.788s] running egg_info
+[0.788s] writing talker_example.egg-info/PKG-INFO
+[0.788s] writing dependency_links to talker_example.egg-info/dependency_links.txt
+[0.789s] writing entry points to talker_example.egg-info/entry_points.txt
+[0.789s] writing requirements to talker_example.egg-info/requires.txt
+[0.789s] writing top-level names to talker_example.egg-info/top_level.txt
+[0.789s] reading manifest file 'talker_example.egg-info/SOURCES.txt'
+[0.790s] writing manifest file 'talker_example.egg-info/SOURCES.txt'
+[0.790s] running build_ext
+[0.790s] Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker-example.egg-link (link to .)
+[0.791s] Installing listener script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/talker_example
+[0.791s] Installing talker script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/talker_example
+[0.791s] 
+[0.791s] Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example
+[0.791s] running symlink_data
+[0.816s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build --no-deps symlink_data

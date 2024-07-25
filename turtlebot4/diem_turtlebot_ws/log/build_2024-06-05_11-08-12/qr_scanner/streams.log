@@ -1,0 +1,20 @@
+[0.945s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build --no-deps symlink_data
+[1.100s] running develop
+[1.102s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.102s]   warnings.warn(
+[1.200s] running egg_info
+[1.200s] writing qr_scanner.egg-info/PKG-INFO
+[1.201s] writing dependency_links to qr_scanner.egg-info/dependency_links.txt
+[1.201s] writing entry points to qr_scanner.egg-info/entry_points.txt
+[1.201s] writing requirements to qr_scanner.egg-info/requires.txt
+[1.202s] writing top-level names to qr_scanner.egg-info/top_level.txt
+[1.202s] reading manifest file 'qr_scanner.egg-info/SOURCES.txt'
+[1.202s] writing manifest file 'qr_scanner.egg-info/SOURCES.txt'
+[1.203s] running build_ext
+[1.204s] Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr-scanner.egg-link (link to .)
+[1.204s] Installing qr_reader script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/qr_scanner
+[1.204s] 
+[1.204s] Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner
+[1.204s] running symlink_data
+[1.204s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/share/qr_scanner/launch
+[1.237s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build --no-deps symlink_data

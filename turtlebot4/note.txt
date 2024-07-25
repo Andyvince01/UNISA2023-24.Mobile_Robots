@@ -1,0 +1,31 @@
+#Undock by cli
+ros2 action send_goal /undock irobot_create_msgs/action/Undock {}
+
+#Dock by cli
+ros2 action send_goal /dock irobot_create_msgs/action/Dock {}
+
+#Poweroff
+ros2 service call /robot_power irobot_create_msgs/srv/RobotPower
+
+#Teleop
+ros2 run teleop_twist_keyboard teleop_twist_keyboard
+
+#Rviz
+ros2 launch turtlebot4_viz view_robot.launch.py
+
+#SLAM
+ros2 launch turtlebot4_navigation slam.launch.py
+ros2 launch turtlebot4_viz view_robot.launch.py
+ros2 service call /slam_toolbox/save_map slam_toolbox/srv/SaveMap "name:
+  data: 'test'"
+  
+#Navigation
+ros2 launch turtlebot4_navigation localization.launch.py map:=test.yaml
+ros2 launch turtlebot4_navigation nav2.launch.py
+ros2 launch turtlebot4_viz view_robot.launch.py
+
+#Simulation
+ros2 launch diem_gazebo turtlebot4_ignition_no_dock.launch.py world:=square
+
+
+wget -qO - https://raw.githubusercontent.com/turtlebot/turtlebot4_setup/humble/turtlebot4_discovery/configure_discovery.sh | bash <(cat) </dev/tty

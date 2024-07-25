@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+launch/qr_launch.py
+qr_commander/__init__.py
+qr_commander/camera.py
+qr_commander/qr_input.py
+qr_commander/qr_scanner.py
+qr_commander.egg-info/PKG-INFO
+qr_commander.egg-info/SOURCES.txt
+qr_commander.egg-info/dependency_links.txt
+qr_commander.egg-info/entry_points.txt
+qr_commander.egg-info/requires.txt
+qr_commander.egg-info/top_level.txt
+qr_commander.egg-info/zip-safe
+resource/qr_commander

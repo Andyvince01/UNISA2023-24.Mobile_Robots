@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating diem_gazebo.egg-info
+writing diem_gazebo.egg-info/PKG-INFO
+writing dependency_links to diem_gazebo.egg-info/dependency_links.txt
+writing entry points to diem_gazebo.egg-info/entry_points.txt
+writing requirements to diem_gazebo.egg-info/requires.txt
+writing top-level names to diem_gazebo.egg-info/top_level.txt
+writing manifest file 'diem_gazebo.egg-info/SOURCES.txt'
+reading manifest file 'diem_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'diem_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem-gazebo.egg-link (link to .)
+
+Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo
+running symlink_data
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/ament_index
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/ament_index/resource_index
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/resource/diem_gazebo -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/package.xml -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/launch
+symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/launch/turtlebot4_ignition_no_dock.launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/launch
+symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/launch/ignition.launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/launch
+symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/launch/turtlebot4_spawn_no_dock.launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/launch
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/worlds
+symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/worlds/square.sdf -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/worlds

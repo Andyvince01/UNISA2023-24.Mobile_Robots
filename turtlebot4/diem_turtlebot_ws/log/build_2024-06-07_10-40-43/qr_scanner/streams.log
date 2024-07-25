@@ -1,0 +1,39 @@
+[0.917s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build
+[1.064s] running develop
+[1.066s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.066s]   warnings.warn(
+[1.182s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build
+[1.183s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/src/qr_scanner': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/qr_scanner build --build-base /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build install --record /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/install.log --single-version-externally-managed install_data --force
+[1.324s] running egg_info
+[1.324s] creating ../../build/qr_scanner/qr_commander.egg-info
+[1.324s] writing ../../build/qr_scanner/qr_commander.egg-info/PKG-INFO
+[1.324s] writing dependency_links to ../../build/qr_scanner/qr_commander.egg-info/dependency_links.txt
+[1.324s] writing entry points to ../../build/qr_scanner/qr_commander.egg-info/entry_points.txt
+[1.324s] writing requirements to ../../build/qr_scanner/qr_commander.egg-info/requires.txt
+[1.324s] writing top-level names to ../../build/qr_scanner/qr_commander.egg-info/top_level.txt
+[1.325s] writing manifest file '../../build/qr_scanner/qr_commander.egg-info/SOURCES.txt'
+[1.326s] reading manifest file '../../build/qr_scanner/qr_commander.egg-info/SOURCES.txt'
+[1.327s] writing manifest file '../../build/qr_scanner/qr_commander.egg-info/SOURCES.txt'
+[1.327s] running build
+[1.327s] running build_py
+[1.327s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build
+[1.327s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib
+[1.328s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+[1.328s] copying qr_scanner/camera.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+[1.328s] copying qr_scanner/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+[1.328s] copying qr_scanner/qr_reader.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+[1.328s] copying qr_scanner/qr_input.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner
+[1.329s] running install
+[1.329s] running install_lib
+[1.330s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+[1.330s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/camera.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+[1.330s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+[1.330s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/qr_reader.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+[1.331s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build/lib/qr_scanner/qr_input.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner
+[1.331s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/camera.py to camera.cpython-310.pyc
+[1.331s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/__init__.py to __init__.cpython-310.pyc
+[1.331s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/qr_reader.py to qr_reader.cpython-310.pyc
+[1.331s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages/qr_scanner/qr_input.py to qr_input.cpython-310.pyc
+[1.332s] running install_data
+[1.332s] error: can't copy 'resource/qr_commander': doesn't exist or not a regular file
+[1.347s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/src/qr_scanner' returned '1': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_scanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/qr_scanner build --build-base /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/build install --record /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_scanner/install.log --single-version-externally-managed install_data --force

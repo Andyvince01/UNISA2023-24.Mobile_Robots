@@ -1,0 +1,18 @@
+[0.698s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/build --no-deps symlink_data
+[0.840s] running develop
+[0.840s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.840s]   warnings.warn(
+[0.921s] running egg_info
+[0.921s] writing diem_gazebo.egg-info/PKG-INFO
+[0.921s] writing dependency_links to diem_gazebo.egg-info/dependency_links.txt
+[0.921s] writing entry points to diem_gazebo.egg-info/entry_points.txt
+[0.921s] writing requirements to diem_gazebo.egg-info/requires.txt
+[0.921s] writing top-level names to diem_gazebo.egg-info/top_level.txt
+[0.922s] reading manifest file 'diem_gazebo.egg-info/SOURCES.txt'
+[0.923s] writing manifest file 'diem_gazebo.egg-info/SOURCES.txt'
+[0.924s] running build_ext
+[0.924s] Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem-gazebo.egg-link (link to .)
+[0.924s] 
+[0.924s] Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo
+[0.924s] running symlink_data
+[0.960s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/build --no-deps symlink_data

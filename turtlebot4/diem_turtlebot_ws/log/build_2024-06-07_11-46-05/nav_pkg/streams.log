@@ -1,0 +1,26 @@
+[1.017s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build --no-deps symlink_data
+[1.220s] running develop
+[1.221s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.221s]   warnings.warn(
+[1.343s] running egg_info
+[1.343s] writing nav_pkg.egg-info/PKG-INFO
+[1.344s] writing dependency_links to nav_pkg.egg-info/dependency_links.txt
+[1.344s] writing entry points to nav_pkg.egg-info/entry_points.txt
+[1.344s] writing requirements to nav_pkg.egg-info/requires.txt
+[1.344s] writing top-level names to nav_pkg.egg-info/top_level.txt
+[1.345s] reading manifest file 'nav_pkg.egg-info/SOURCES.txt'
+[1.346s] writing manifest file 'nav_pkg.egg-info/SOURCES.txt'
+[1.347s] running build_ext
+[1.347s] Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav-pkg.egg-link (link to .)
+[1.348s] Installing naive_obj_avoidance script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.348s] Installing nav1 script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.349s] Installing nav2 script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.349s] Installing nav_stack script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.349s] Installing nav_step script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.349s] Installing navigation script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.349s] Installing odom script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.350s] Installing simple_nav script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+[1.350s] 
+[1.350s] Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg
+[1.350s] running symlink_data
+[1.408s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build --no-deps symlink_data

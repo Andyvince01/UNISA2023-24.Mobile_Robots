@@ -1,0 +1,3 @@
+[console_scripts]
+qr_reader = qr_scanner.qr_reader:main
+

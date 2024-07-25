@@ -1,0 +1,34 @@
+[0.601s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/build
+[0.740s] running develop
+[0.740s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.740s]   warnings.warn(
+[0.821s] Removing /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem-gazebo.egg-link (link to .)
+[0.843s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/build
+[0.844s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/src/diem_gazebo': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/diem_gazebo build --build-base /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/build install --record /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/install.log --single-version-externally-managed install_data --force
+[0.969s] running egg_info
+[0.969s] writing ../../build/diem_gazebo/diem_gazebo.egg-info/PKG-INFO
+[0.969s] writing dependency_links to ../../build/diem_gazebo/diem_gazebo.egg-info/dependency_links.txt
+[0.969s] writing entry points to ../../build/diem_gazebo/diem_gazebo.egg-info/entry_points.txt
+[0.969s] writing requirements to ../../build/diem_gazebo/diem_gazebo.egg-info/requires.txt
+[0.969s] writing top-level names to ../../build/diem_gazebo/diem_gazebo.egg-info/top_level.txt
+[0.970s] reading manifest file '../../build/diem_gazebo/diem_gazebo.egg-info/SOURCES.txt'
+[0.971s] writing manifest file '../../build/diem_gazebo/diem_gazebo.egg-info/SOURCES.txt'
+[0.971s] running build
+[0.971s] running build_py
+[0.971s] running install
+[0.971s] running install_lib
+[0.971s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem_gazebo
+[0.971s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/build/lib/diem_gazebo/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem_gazebo
+[0.972s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem_gazebo/__init__.py to __init__.cpython-310.pyc
+[0.972s] running install_data
+[0.972s] copying resource/diem_gazebo -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/ament_index/resource_index/packages
+[0.972s] copying package.xml -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo
+[0.972s] copying launch/turtlebot4_ignition_no_dock.launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/launch
+[0.972s] copying launch/ignition.launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/launch
+[0.972s] copying launch/turtlebot4_spawn_no_dock.launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/launch
+[0.972s] copying worlds/square.sdf -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/share/diem_gazebo/worlds
+[0.972s] running install_egg_info
+[0.974s] Copying ../../build/diem_gazebo/diem_gazebo.egg-info to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem_gazebo-0.0.0-py3.10.egg-info
+[0.974s] running install_scripts
+[0.986s] writing list of installed files to '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/install.log'
+[1.006s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/src/diem_gazebo' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/diem_gazebo build --build-base /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/build install --record /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo/install.log --single-version-externally-managed install_data --force

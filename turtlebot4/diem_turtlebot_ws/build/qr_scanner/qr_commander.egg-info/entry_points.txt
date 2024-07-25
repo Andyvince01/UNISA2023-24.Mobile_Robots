@@ -1,0 +1,5 @@
+[console_scripts]
+camera = qr_commander.camera:main
+qr_input = qr_commander.qr_input:main
+qr_scanner = qr_commander.qr_scanner:main
+

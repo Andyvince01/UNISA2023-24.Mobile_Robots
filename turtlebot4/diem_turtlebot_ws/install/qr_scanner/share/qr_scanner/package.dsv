@@ -1,0 +1,9 @@
+source;share/qr_scanner/hook/pythonpath.ps1
+source;share/qr_scanner/hook/pythonpath.dsv
+source;share/qr_scanner/hook/pythonpath.sh
+source;share/qr_scanner/hook/ament_prefix_path.ps1
+source;share/qr_scanner/hook/ament_prefix_path.dsv
+source;share/qr_scanner/hook/ament_prefix_path.sh
+source;../../build/qr_scanner/share/qr_scanner/hook/pythonpath_develop.ps1
+source;../../build/qr_scanner/share/qr_scanner/hook/pythonpath_develop.dsv
+source;../../build/qr_scanner/share/qr_scanner/hook/pythonpath_develop.sh

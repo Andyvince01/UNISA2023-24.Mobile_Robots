@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+qr_scanner/__init__.py
+qr_scanner/qr_reader.py
+qr_scanner.egg-info/PKG-INFO
+qr_scanner.egg-info/SOURCES.txt
+qr_scanner.egg-info/dependency_links.txt
+qr_scanner.egg-info/entry_points.txt
+qr_scanner.egg-info/requires.txt
+qr_scanner.egg-info/top_level.txt
+qr_scanner.egg-info/zip-safe
+resource/qr_scanner

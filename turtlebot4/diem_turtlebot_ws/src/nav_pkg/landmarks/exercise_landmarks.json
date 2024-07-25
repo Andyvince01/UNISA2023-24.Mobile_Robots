@@ -1,0 +1,86 @@
+{
+  "1": {
+    "pose": {
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": 0
+      },
+      "orientation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+      }
+    }
+  },
+  "2": {
+    "pose": {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "orientation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": -90
+      }
+    }
+  },
+  "3": {
+    "pose": {
+      "position": {
+        "x": 0,
+        "y": -1,
+        "z": 0
+      },
+      "orientation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+      }
+    }
+  },
+  "4": {
+    "pose": {
+      "position": {
+        "x": 1,
+        "y": -1,
+        "z": 0
+      },
+      "orientation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 90
+      }
+    }
+  },
+  "5": {
+    "pose": {
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "orientation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 90
+      }
+    }
+  },
+  "6": {
+    "pose": {
+      "position": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "orientation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 90
+      }
+    }
+  }
+}

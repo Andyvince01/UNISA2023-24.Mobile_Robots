@@ -1,0 +1,21 @@
+[0.790s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build --no-deps symlink_data --force
+[0.942s] running develop
+[0.942s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.942s]   warnings.warn(
+[1.031s] running egg_info
+[1.031s] writing talker_example.egg-info/PKG-INFO
+[1.031s] writing dependency_links to talker_example.egg-info/dependency_links.txt
+[1.031s] writing entry points to talker_example.egg-info/entry_points.txt
+[1.031s] writing requirements to talker_example.egg-info/requires.txt
+[1.031s] writing top-level names to talker_example.egg-info/top_level.txt
+[1.032s] reading manifest file 'talker_example.egg-info/SOURCES.txt'
+[1.032s] writing manifest file 'talker_example.egg-info/SOURCES.txt'
+[1.034s] running build_ext
+[1.034s] Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker-example.egg-link (link to .)
+[1.035s] Installing listener script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/talker_example
+[1.035s] Installing talker script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/talker_example
+[1.035s] 
+[1.035s] Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example
+[1.035s] running symlink_data
+[1.035s] symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/resource/talker_example -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/share/ament_index/resource_index/packages
+[1.035s] symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/package.xml -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/share/talker_example

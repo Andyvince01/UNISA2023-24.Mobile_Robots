@@ -1,0 +1,35 @@
+[0.918s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build
+[1.062s] running develop
+[1.064s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.064s]   warnings.warn(
+[1.155s] Removing /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker-example.egg-link (link to .)
+[1.183s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build
+[1.184s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/src/talker_example': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/talker_example build --build-base /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build install --record /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/install.log --single-version-externally-managed install_data --force
+[1.363s] running egg_info
+[1.364s] writing ../../build/talker_example/talker_example.egg-info/PKG-INFO
+[1.364s] writing dependency_links to ../../build/talker_example/talker_example.egg-info/dependency_links.txt
+[1.364s] writing entry points to ../../build/talker_example/talker_example.egg-info/entry_points.txt
+[1.364s] writing requirements to ../../build/talker_example/talker_example.egg-info/requires.txt
+[1.365s] writing top-level names to ../../build/talker_example/talker_example.egg-info/top_level.txt
+[1.367s] reading manifest file '../../build/talker_example/talker_example.egg-info/SOURCES.txt'
+[1.368s] writing manifest file '../../build/talker_example/talker_example.egg-info/SOURCES.txt'
+[1.368s] running build
+[1.368s] running build_py
+[1.368s] running install
+[1.369s] running install_lib
+[1.369s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example
+[1.369s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build/lib/talker_example/talker_node.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example
+[1.369s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build/lib/talker_example/listener_node.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example
+[1.369s] copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/build/lib/talker_example/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example
+[1.369s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example/talker_node.py to talker_node.cpython-310.pyc
+[1.370s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example/listener_node.py to listener_node.cpython-310.pyc
+[1.370s] byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example/__init__.py to __init__.cpython-310.pyc
+[1.370s] running install_data
+[1.370s] copying resource/talker_example -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/share/ament_index/resource_index/packages
+[1.370s] copying package.xml -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/share/talker_example
+[1.370s] running install_egg_info
+[1.372s] Copying ../../build/talker_example/talker_example.egg-info to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/python3.10/site-packages/talker_example-0.0.0-py3.10.egg-info
+[1.373s] running install_scripts
+[1.387s] Installing listener script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/talker_example
+[1.388s] Installing talker script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/talker_example/lib/talker_example
+[1.388s] writing list of installed files to '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/talker_example/install.log'

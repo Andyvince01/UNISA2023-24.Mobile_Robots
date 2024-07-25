@@ -1,0 +1,22 @@
+[1.011s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/build --no-deps symlink_data
+[1.216s] running develop
+[1.219s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.219s]   warnings.warn(
+[1.343s] running egg_info
+[1.343s] writing qr_commander.egg-info/PKG-INFO
+[1.343s] writing dependency_links to qr_commander.egg-info/dependency_links.txt
+[1.343s] writing entry points to qr_commander.egg-info/entry_points.txt
+[1.344s] writing requirements to qr_commander.egg-info/requires.txt
+[1.344s] writing top-level names to qr_commander.egg-info/top_level.txt
+[1.345s] reading manifest file 'qr_commander.egg-info/SOURCES.txt'
+[1.346s] writing manifest file 'qr_commander.egg-info/SOURCES.txt'
+[1.347s] running build_ext
+[1.347s] Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/python3.10/site-packages/qr-commander.egg-link (link to .)
+[1.348s] Installing camera script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+[1.348s] Installing qr_input script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+[1.348s] Installing qr_scanner script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+[1.348s] 
+[1.348s] Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander
+[1.348s] running symlink_data
+[1.348s] symbolically linking /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/launch/qr_launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/share/qr_commander/launch
+[1.401s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander' returned '0': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/build --no-deps symlink_data

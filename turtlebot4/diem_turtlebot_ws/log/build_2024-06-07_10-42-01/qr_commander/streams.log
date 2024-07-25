@@ -1,0 +1,27 @@
+[0.789s] Invoking command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/build --no-deps symlink_data
+[0.942s] running develop
+[0.942s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.942s]   warnings.warn(
+[1.032s] running egg_info
+[1.032s] creating qr_commander.egg-info
+[1.032s] writing qr_commander.egg-info/PKG-INFO
+[1.032s] writing dependency_links to qr_commander.egg-info/dependency_links.txt
+[1.033s] writing entry points to qr_commander.egg-info/entry_points.txt
+[1.033s] writing requirements to qr_commander.egg-info/requires.txt
+[1.033s] writing top-level names to qr_commander.egg-info/top_level.txt
+[1.033s] writing manifest file 'qr_commander.egg-info/SOURCES.txt'
+[1.034s] reading manifest file 'qr_commander.egg-info/SOURCES.txt'
+[1.035s] writing manifest file 'qr_commander.egg-info/SOURCES.txt'
+[1.035s] running build_ext
+[1.035s] Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/python3.10/site-packages/qr-commander.egg-link (link to .)
+[1.035s] Installing camera script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+[1.035s] Installing qr_input script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+[1.036s] Installing qr_scanner script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+[1.036s] 
+[1.036s] Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander
+[1.036s] running symlink_data
+[1.036s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/share/ament_index
+[1.036s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/share/ament_index/resource_index
+[1.037s] creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/share/ament_index/resource_index/packages
+[1.037s] error: can't copy '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/resource/qr_commander': doesn't exist or not a regular file
+[1.057s] Invoked command in '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander' returned '1': PYTHONPATH=/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/prefix_override:/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander/build --no-deps symlink_data

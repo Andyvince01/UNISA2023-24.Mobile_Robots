@@ -1,0 +1,19 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing qr_commander.egg-info/PKG-INFO
+writing dependency_links to qr_commander.egg-info/dependency_links.txt
+writing entry points to qr_commander.egg-info/entry_points.txt
+writing requirements to qr_commander.egg-info/requires.txt
+writing top-level names to qr_commander.egg-info/top_level.txt
+reading manifest file 'qr_commander.egg-info/SOURCES.txt'
+writing manifest file 'qr_commander.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/python3.10/site-packages/qr-commander.egg-link (link to .)
+Installing camera script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+Installing qr_input script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+Installing qr_scanner script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/qr_commander/lib/qr_commander
+
+Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/qr_commander
+running symlink_data

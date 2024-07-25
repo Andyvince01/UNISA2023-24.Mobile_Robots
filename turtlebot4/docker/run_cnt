@@ -1,0 +1,1 @@
+docker run -p 33890:3389 --rm -v "S:\MIE CARTELLE\PROGRAMMAZIONE\GITHUB\turtlebot4\diem_turtlebot_ws:/home/mivia/diem_turtlebot_ws" -it ubuntu22

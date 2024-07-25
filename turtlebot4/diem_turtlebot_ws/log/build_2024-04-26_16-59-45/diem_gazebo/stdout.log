@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing diem_gazebo.egg-info/PKG-INFO
+writing dependency_links to diem_gazebo.egg-info/dependency_links.txt
+writing entry points to diem_gazebo.egg-info/entry_points.txt
+writing requirements to diem_gazebo.egg-info/requires.txt
+writing top-level names to diem_gazebo.egg-info/top_level.txt
+reading manifest file 'diem_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'diem_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/diem_gazebo/lib/python3.10/site-packages/diem-gazebo.egg-link (link to .)
+
+Installed /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/diem_gazebo
+running symlink_data

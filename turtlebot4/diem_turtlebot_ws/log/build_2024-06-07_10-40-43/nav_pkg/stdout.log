@@ -1,0 +1,95 @@
+running develop
+Removing /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav-pkg.egg-link (link to .)
+running egg_info
+writing ../../build/nav_pkg/nav_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/nav_pkg/nav_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/nav_pkg/nav_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/nav_pkg/nav_pkg.egg-info/requires.txt
+writing top-level names to ../../build/nav_pkg/nav_pkg.egg-info/top_level.txt
+reading manifest file '../../build/nav_pkg/nav_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/nav_pkg/nav_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+copying nav_pkg/simple_nav.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+copying nav_pkg/nav_step.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+copying nav_pkg/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+copying nav_pkg/naive_obstacle_avoidance.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+copying nav_pkg/navigation.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+copying nav_pkg/odom.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+copying nav_pkg/utils.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model
+copying nav_pkg/motion_model/nav2.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model
+copying nav_pkg/motion_model/nav_stack.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model
+copying nav_pkg/motion_model/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model
+copying nav_pkg/motion_model/nav1.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/geometry_transformations.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/misc.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/pose2.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/_orientation.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/_pose.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/text_decorator.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+copying nav_pkg/utils_folder/_euler.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder
+running install
+running install_lib
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model/nav2.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model/nav_stack.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/motion_model/nav1.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/simple_nav.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/nav_step.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+creating /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/geometry_transformations.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/misc.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/pose2.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/_orientation.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/_pose.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/text_decorator.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils_folder/_euler.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/__init__.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/naive_obstacle_avoidance.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/navigation.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/odom.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+copying /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/build/lib/nav_pkg/utils.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model/nav2.py to nav2.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model/nav_stack.py to nav_stack.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/motion_model/nav1.py to nav1.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/simple_nav.py to simple_nav.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/nav_step.py to nav_step.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/geometry_transformations.py to geometry_transformations.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/misc.py to misc.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/pose2.py to pose2.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/_orientation.py to _orientation.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/_pose.py to _pose.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/text_decorator.py to text_decorator.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils_folder/_euler.py to _euler.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/naive_obstacle_avoidance.py to naive_obstacle_avoidance.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/navigation.py to navigation.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/odom.py to odom.cpython-310.pyc
+byte-compiling /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/utils.py to utils.cpython-310.pyc
+running install_data
+copying resource/nav_pkg -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/share/nav_pkg
+copying launch/nav1.launch.py -> /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/share/nav_pkg/launch
+running install_egg_info
+Copying ../../build/nav_pkg/nav_pkg.egg-info to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/python3.10/site-packages/nav_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing naive_obj_avoidance script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+Installing nav1 script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+Installing nav2 script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+Installing nav_stack script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+Installing nav_step script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+Installing navigation script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+Installing odom script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+Installing simple_nav script to /home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/install/nav_pkg/lib/nav_pkg
+writing list of installed files to '/home/andyv/Desktop/turtlebot4/diem_turtlebot_ws/build/nav_pkg/install.log'

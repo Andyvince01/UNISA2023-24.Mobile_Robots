@@ -1,0 +1,10 @@
+[console_scripts]
+naive_obj_avoidance = nav_pkg.naive_obstacle_avoidance:main
+nav1 = nav_pkg.motion_model.nav1:main
+nav2 = nav_pkg.motion_model.nav2:main
+nav_stack = nav_pkg.motion_model.nav_stack:main
+nav_step = nav_pkg.nav_step:main
+navigation = nav_pkg.navigation:main
+odom = nav_pkg.odom:main
+simple_nav = nav_pkg.simple_nav:main
+
